@@ -1,0 +1,13 @@
+start https://www.bing.com/search?pglt=43&q=ewdszrewsd&cvid=168fc144291f45629262e7d7566eea7e&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzYyOWowajGoAgCwAgA&FORM=ANNTA1&PC=ASTS
+start https://www.bing.com/search?pglt=43&q=hi&cvid=acf5fb44916c481aacc9709562f8bf14&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQRRg8MgYIBxBFGDwyBggIEEUYPNIBCDMzMzhqMGoxqAIAsAIA&FORM=ANNTA1&PC=ASTS
+start https://www.bing.com/search?q=ih&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=ih&sc=11-2&sk=&cvid=DF461B17224144EDB9022EBC3CAB5162&ghsh=0&ghacc=0&ghpl=
+start https://www.bing.com/search?q=ho&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=ho&sc=11-2&sk=&cvid=47764A46125E41B78E094F396FD85A9D&ghsh=0&ghacc=0&ghpl=
+start https://www.bing.com/search?q=ho+ho&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=ho+ho&sc=11-5&sk=&cvid=795AA2023CDC4CCA93A9ACD3A4544C9F&ghsh=0&ghacc=0&ghpl=
+start https://www.bing.com/search?q=hi+samsa+galaxi+note+7+bomba+atomowa+kup&cvid=12b6b14e431c45c6b4a62b67a6320d53&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEAAYQDIGCAMQIxgnMgYIBBAAGEAyBggFEC4YQDIGCAYQLhhAMgYIBxAAGEAyBggIEC4YQNIBCDIzOTNqMGo5qAIAsAIA&FORM=ANAB01&PC=ASTS
+start https://www.bing.com/search?q=bomba+atomowa+kup&qs=n&form=QBRE&sp=-1&lq=0&pq=bomba+atomowa+kup&sc=16-17&sk=&cvid=29BBA50A124048EC96A11B71273FEBFA&ghsh=0&ghacc=0&ghpl=
+start https://www.bing.com/search?q=internet+spammer+10000&cvid=7134ae6c770542ff9aebb7180a2ac88c&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY5ODRqMGo5qAIAsAIA&FORM=ANAB01&PC=ASTS
+start https://www.bing.com/search?q=internet+spammer+10000+lol&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=internet+spammer+10000+lol&sc=9-26&sk=&cvid=FFA5CACDBF3F479982762BC74E2AF684&ghsh=0&ghacc=0&ghpl=
+start https://www.bing.com/search?q=XD&qs=n&form=QBRE&sp=-1&lq=0&pq=xd&sc=11-2&sk=&cvid=98868F36DE9A45A1B0E55B5E3E9413B0&ghsh=0&ghacc=0&ghpl=
+start https://www.bing.com/search?q=Co&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=co&sc=11-2&sk=&cvid=46789911717B458E8153E38A416CB6FE&ghsh=0&ghacc=0&ghpl=
+start https://www.bing.com/search?q=jak+strzela%C4%87+fajerwerkami+z+kuszy+w+minecraft&cvid=a8a4f1ff67694760970c991bbf7b85d5&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARBFGDkyBggCEEUYOzIGCAMQRRg7MgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxBFGDwyBggIEEUYPNIBCDIwNjNqMGo5qAIAsAIA&FORM=ANAB01&PC=ASTS
+start https://www.bing.com/search?q=jak&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=jak&sc=11-3&sk=&cvid=3386EB9964A74E6BA16DB1DE33468F98&ghsh=0&ghacc=0&ghpl=
